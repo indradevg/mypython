@@ -1,3 +1,4 @@
+#!/usr/bin/python3.4
 class Human():
 	"""docstring for ClassName"""
 	def __init__(self, name, age, gender):
