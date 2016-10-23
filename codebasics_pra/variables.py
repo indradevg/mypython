@@ -17,3 +17,18 @@ len=5.5
 area=len**2
 
 print ("Area of a square : {0}sqft".format(area))
+
+address='''
+H.No: 1, Heaven street,
+Road 10, M G Road,
+Paradise, Rosleand,
+NJ - 07030
+'''
+
+print ("Address is \n", address)
+
+
+
+print ("============================================")
+
+print ("No of states in India : {0}\n".format(str(29)))
