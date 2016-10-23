@@ -22,3 +22,11 @@ fruits.insert(len(fruits), "Pears")
 
 pop_item = fruits.pop()
 print(pop_item)
+
+fruits.extend(["watermelon","jackfruit"])
+print(fruits)
+
+########## SLICES ##########
+print(fruits[2:5])
+print(fruits[2:])
+print(fruits[:-1])
